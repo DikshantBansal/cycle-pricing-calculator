@@ -1,0 +1,46 @@
+[
+  {
+    "frame": {
+      "type": "carbanFiberFrame",
+      "date": "20/08/2020" 
+    },
+    "handle-bar": {
+      "type": "DropHandleBar",
+      "date": "20/05/2015"
+    },
+    "seat": {
+      "type": "normalCycleSeat",
+      "date": "20/05/2018"
+    },
+    "wheel": {
+      "type": "tubelessWheel",
+      "date": "05/02/2013"
+    },
+    "chain-assembly": {
+      "type": "sportsChainAssembly",
+      "date": "06/09/2019"
+    }
+  },
+  {
+    "frame": {
+      "type": "steelFrame",
+      "date": "20/08/2020"
+    },
+    "handle-bar": {
+      "type": null,
+      "date": "20/05/2015"
+    },
+    "seat": {
+      "type": "normalCycleSeat",
+      "date": "20/05/2018"
+    },
+    "wheel": {
+      "type": "tubelessWheel",
+      "date": "05/02/2013"
+    },
+    "chain-assembly": {
+      "type": null,
+      "date": "06/09/2019"
+    }
+  }
+]
